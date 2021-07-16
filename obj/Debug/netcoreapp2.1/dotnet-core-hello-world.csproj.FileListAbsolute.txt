@@ -1,0 +1,12 @@
+C:\dotnet-core-hello-world-master\bin\Debug\netcoreapp2.1\dotnet-core-hello-world.deps.json
+C:\dotnet-core-hello-world-master\bin\Debug\netcoreapp2.1\dotnet-core-hello-world.runtimeconfig.json
+C:\dotnet-core-hello-world-master\bin\Debug\netcoreapp2.1\dotnet-core-hello-world.runtimeconfig.dev.json
+C:\dotnet-core-hello-world-master\bin\Debug\netcoreapp2.1\dotnet-core-hello-world.dll
+C:\dotnet-core-hello-world-master\bin\Debug\netcoreapp2.1\dotnet-core-hello-world.pdb
+C:\dotnet-core-hello-world-master\obj\Debug\netcoreapp2.1\dotnet-core-hello-world.csproj.AssemblyReference.cache
+C:\dotnet-core-hello-world-master\obj\Debug\netcoreapp2.1\dotnet-core-hello-world.AssemblyInfoInputs.cache
+C:\dotnet-core-hello-world-master\obj\Debug\netcoreapp2.1\dotnet-core-hello-world.AssemblyInfo.cs
+C:\dotnet-core-hello-world-master\obj\Debug\netcoreapp2.1\dotnet-core-hello-world.csproj.CoreCompileInputs.cache
+C:\dotnet-core-hello-world-master\obj\Debug\netcoreapp2.1\dotnet-core-hello-world.dll
+C:\dotnet-core-hello-world-master\obj\Debug\netcoreapp2.1\dotnet-core-hello-world.pdb
+C:\dotnet-core-hello-world-master\obj\Debug\netcoreapp2.1\dotnet-core-hello-world.genruntimeconfig.cache
